@@ -90,6 +90,9 @@ p {
   .index-images {
     display: none;
   }
+  body {
+    margin-bottom: 40px;
+  }
   h1 {
     font-size: 36px;
   }
@@ -108,8 +111,10 @@ p {
     text-align: center;
     width: 100%;
   }
-
   .col-sm-4 {
+    margin-bottom: 10px;
+  }
+  div .navigation-links {
     margin-bottom: 10px;
   }
 }
